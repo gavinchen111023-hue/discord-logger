@@ -1,0 +1,6 @@
+{
+  "name": "discord-logger",
+  "version": "1.0.0",
+  "description": "Discord webhook logger for exam scores",
+  "main": "api/discord.js"
+}
